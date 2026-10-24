@@ -1,5 +1,9 @@
 # Bengali Home Puja Guides (বাংলায় ঘরোয়া পূজা-পদ্ধতি)
 
+![Ma Lakshmir Puja guide cover](images/Lakshmi_Puja_cover.png)
+
+**[⬇ Download the Lakshmi Puja guide (PDF, 24 pages)](https://github.com/BaijayantaRoy/bengali-puja-guides/raw/main/Lakshmi_Puja/Ma_Lakshmir_Puja_v1.0.pdf)**
+
 Free, fully Bengali guidebooks for performing puja at home, with full mantras, word-by-word breaks, meanings and timings for cities around the world.
 সংকলন ও সম্পাদনা: বৈজয়ন্ত রায় (Baijayanta Roy)
 
@@ -9,7 +13,7 @@ Free, fully Bengali guidebooks for performing puja at home, with full mantras, w
 | মা লক্ষ্মীর পূজা: সহজ পদ্ধতি ও পাঁচালি (Kojagari Lakshmi Puja) | 24 | [Latest release](https://github.com/BaijayantaRoy/bengali-puja-guides/releases/latest) |
 | মা দুর্গার পূজা (Durga Puja, ghat puja with essential/optional marked) | 40 | Coming after mantra review |
 
-No account needed: open the release page and click the PDF under **Assets**.
+No account needed: click the download link above, or find the PDF under Releases → Assets.
 
 ## About
 - Written for families without a priest. Every mantra is given in full.
